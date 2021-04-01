@@ -1,4 +1,4 @@
-# Revenge of the pith Sigbovik2021
+# Revenge of the pith @ Sigbovik2021
 Proccedings link: http://sigbovik.org/2021/proceedings.pdf
 
 So, after many rounds of acrimonious jousts with the ever-demanding SigBovik reviewer committee with their triple-blind review antics (http://sigbovik.org/2021/), this soon-to-be-cult-classic got accepted!
